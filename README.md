@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayjeet Kumar</h1>
-<h3 align="center">A passionate Fronted and Smart Contract and Web3 Developer from India</h3>
+<h3 align="center">A passionate Fronted, Smart Contract and Web3 Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjeet1013&label=Profile%20views&color=0e75b6&style=flat" alt="jayjeet1013" /> </p>
 
