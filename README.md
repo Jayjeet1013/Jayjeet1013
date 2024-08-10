@@ -29,9 +29,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayjeet1013&show_icons=true&locale=en&layout=compact" alt="jayjeet1013" /></p>
 
+<br />
+<div width='full'>
+<h3 align="center">☕ Buy Me a Coffee</h3>
+
 <p align="center">
-  <a href="https://buymeacoffee.com/jayjeet1013" target="_blank"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>
+  <a href="https://buymeacoffee.com/jayjeet1013" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
 </p>
-
-
-
+</div>
