@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://twitter.com/@jayjeet_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jayjeet_100" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jayjeet-kumar-71a7751ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayjeet kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/jay_jeet_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay_jeet_100" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
