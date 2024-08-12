@@ -1,17 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayjeet Kumar</h1>
-<h3 align="center">A passionate Web3 and Fronted Web Developer </h3>
+<h3 align="center">Fronted Web Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjeet1013&label=Profile%20views&color=0e75b6&style=flat" alt="jayjeet1013" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjeet1013" alt="jayjeet1013" /></a> </p>
 
-- 🔭 I’m currently working on **Dapps**
+- 🔭 I’m currently working on **auraui.com**
 
-- 🌱 I’m currently learning **Web3 Devlopment**
+- 🌱 I’m currently learning **Backend , Web3 & AI**
 
-- 💬 Ask me about **Solidity**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **jayjeet1013@gmail.com**
 
