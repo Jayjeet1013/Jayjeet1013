@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **auraui.com**
 
-- 🌱 I’m currently learning **Backend , Web3 & AI**
+- 🌱 I’m currently learning **Backend,React Native, Web3 & AI**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Something that I don't know**
 
 - 📫 How to reach me **jayjeet1013@gmail.com**
 
