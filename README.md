@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **auraui.com & Other Projects**
 
-- 🌱 I’m currently learning **Backend,React Native, Web3 & AI**
+- 🌱 I’m currently learning **Backend,Web3 & AI**
 
 - 💬 Ask me about **Something that I don't know**
 
