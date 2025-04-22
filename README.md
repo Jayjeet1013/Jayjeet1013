@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Coding**
 
-- 💬 Ask me about **Something that I don't know**
+- 💬 Ask me about **My Projects**
 
 - 📫 How to reach me **jayjeet1013@gmail.com**
 
