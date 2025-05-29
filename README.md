@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Coding**
 
-- 💬 Ask me about **My Projects**
+- 💬 Ask me about **My Projects & Startup**
 
 - 📫 How to reach me **jayjeet1013@gmail.com**
 
