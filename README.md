@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayjeet Kumar</h1>
-<h3 align="center">Frontend Developer  </h3>
+<h3 align="center">Frontend Developer , Open to Work  </h3>
 <h4 align="center">Indie Hacker,Building LandArchi.xyz and auraui.com  </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjeet1013&label=Profile%20views&color=0e75b6&style=flat" alt="jayjeet1013" />  </p>
