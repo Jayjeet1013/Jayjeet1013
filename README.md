@@ -1,9 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayjeet Kumar</h1>
-<h3 align="center">Frontend Developer , Freelancer  </h3>
-<h3 align="center">Making Landing pages for the Startup  </h3>
-<h4 align="center">Indie Hacker,Building LandArchi.xyz and auraui.com  </h4>
+<h3 align="center">Frontend Developer , Freelancer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjeet1013&label=Profile%20views&color=0e75b6&style=flat" alt="jayjeet1013" />  </p>
 
@@ -11,13 +9,15 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **FullStack & React Native**
 
 - 💬 Ask me about **My Projects & Startup**
+  
+- 🏢 My previous startups: **LandArchi & AuraUI**
 
 - 📫 How to reach me **jayjeet1013@gmail.com**
 
-- ⚡ Fun fact **I am Cool...**
+- ⚡ Fun fact **Search my name on Google**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
