@@ -1,42 +1,87 @@
+<h1 align="center">Jayjeet Kumar</h1>
 
-
-<h1 align="center">Hi 👋, I'm Jayjeet Kumar</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjeet1013&label=Profile%20views&color=0e75b6&style=flat" alt="jayjeet1013" />  </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjeet1013" alt="jayjeet1013" /></a> </p>
-
-
-- 🌱 I’m currently learning **FullStack & React Native**
-
-- 💬 Ask me about **My Projects & Startup**
-  
-- 🏢 My previous startups: **LandArchi & AuraUI**
-
-- 📫 How to reach me **jayjeet1013@gmail.com**
-
-- ⚡ Fun fact **Search my name on Google**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@jayjeet_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jayjeet_100" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayjeet-kumar-71a7751ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayjeet kumar" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayjeet1013&show_icons=true&locale=en&layout=compact" alt="jayjeet1013" /></p>
-
-<br />
-<div width='full'>
-<h3 align="center">☕ Buy Me a Coffee</h3>
+<h3 align="center">
+Premium Landing Page Developer • React • Next.js • Animations
+</h3>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/jayjeet1013" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+I build modern, animated, high-converting landing pages for startups.
+</p>
+
+<p align="center">
+  <a href="https://jayjeet-portfolio.vercel.app/">
+    Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/jayjeet-kumar-71a7751ba/">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:jayjeet1013@gmail.com">
+    Email
   </a>
 </p>
-</div>
+
+---
+
+## 🚀 What I Do
+
+- Build premium startup landing pages
+- Create smooth animations & modern UI
+- Develop responsive React & Next.js websites
+- Focus on performance, conversion & clean frontend architecture
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## ✨ Featured Projects
+
+### 🔹 AuraUI
+Modern animated React UI components and startup-focused frontend experiences.
+
+### 🔹 LandArchi
+AI-powered platform for generating 2D & 3D land layouts with voice-based interaction.
+
+### 🔹 Startup Landing Pages
+Custom high-converting landing pages built for startups and freelance clients.
+
+👉 Portfolio:
+https://jayjeet-portfolio.vercel.app/freelancer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/@jayjeet_100">
+    Twitter
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/jayjeet-kumar-71a7751ba/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+- Premium landing page development
+- React & Next.js frontend systems
+- Smooth animations & modern UI/UX
+- Building startup-focused web experiences
