@@ -1,11 +1,11 @@
 <h1 align="center">Jayjeet Kumar</h1>
 
 <h3 align="center">
-Premium Landing Page Developer • React • Next.js • Animations
+Software Engineer • Frontend Developer • Startup Builder
 </h3>
 
 <p align="center">
-I build modern, animated, high-converting landing pages for startups.
+Building modern AI, Web3, and startup-focused products using React, Next.js, and TypeScript.
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@ I build modern, animated, high-converting landing pages for startups.
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Build premium startup landing pages
-- Create smooth animations & modern UI
-- Develop responsive React & Next.js websites
-- Focus on performance, conversion & clean frontend architecture
+* Building modern frontend systems and startup products
+* Passionate about AI, Web3, and product engineering
+* Focused on scalable UI/UX and smooth user experiences
+* Exploring the intersection of technology, design, and startups
 
 ---
 
@@ -37,38 +37,40 @@ I build modern, animated, high-converting landing pages for startups.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-  
+
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-  
+
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
-### 🔹 AuraUI
-Modern animated React UI components and startup-focused frontend experiences.
+### 🔹 TrustRaja
+
+AI-powered Web3 wallet trust analyzer using Blockscout and ASI API.
 
 ### 🔹 LandArchi
+
 AI-powered platform for generating 2D & 3D land layouts with voice-based interaction.
 
-### 🔹 Startup Landing Pages
-Custom high-converting landing pages built for startups and freelance clients.
+### 🔹 AuraUI
 
-👉 Portfolio:
-https://jayjeet-portfolio.vercel.app/freelancer
+Modern animated React UI components and startup-focused frontend experiences.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/@jayjeet_100">
+  <a href="https://twitter.com/jayjeet_100">
     Twitter
   </a>
   •
@@ -81,7 +83,14 @@ https://jayjeet-portfolio.vercel.app/freelancer
 
 ## ⚡ Current Focus
 
-- Premium landing page development
-- React & Next.js frontend systems
-- Smooth animations & modern UI/UX
-- Building startup-focused web experiences
+* Frontend Engineering
+* AI & Web3 Products
+* Next.js & TypeScript
+* Startup-focused Product Development
+* Modern UI/UX Systems
+
+---
+
+## 💡 Philosophy
+
+> Learn. Build. Ship. Repeat.
