@@ -53,15 +53,11 @@ Building modern AI, Web3, and startup-focused products using React, Next.js, and
 
 ## ✨ Featured Projects
 
-### 🔹 TrustRaja
-
-AI-powered Web3 wallet trust analyzer using Blockscout and ASI API.
-
-### 🔹 LandArchi
+### 🔹  <a href="https://landarchi.vercel.app/">LandArchi </a>
 
 AI-powered platform for generating 2D & 3D land layouts with voice-based interaction.
 
-### 🔹 AuraUI
+### 🔹 <a href="https://auraui.com">AuraUI </a>
 
 Modern animated React UI components and startup-focused frontend experiences.
 
